@@ -1,0 +1,55 @@
+.notification-icon {
+  align-items: flex-start;
+  display: flex;
+  min-width: 36px;
+}
+
+.overlap-group-6 {
+  align-items: center;
+  display: flex;
+  height: 36px;
+  min-width: 36px;
+  padding: 0 6px;
+}
+
+.group-58 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 24px;
+  width: 24px;
+}
+
+.overlap-group1-3 {
+  height: 18px;
+  position: relative;
+  width: 24px;
+}
+
+.group-55 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.group-56 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.group-57 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  margin-top: 3px;
+  width: 6px;
+}

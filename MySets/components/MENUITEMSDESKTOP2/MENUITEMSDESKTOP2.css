@@ -1,0 +1,17 @@
+.menu-items-desktop-4 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 66px;
+  margin-left: 23px;
+  min-width: 109px;
+  padding: 24.6px 0;
+}
+
+.community {
+  letter-spacing: 2.10px;
+  line-height: 16.8px;
+  min-height: 16px;
+  white-space: nowrap;
+}

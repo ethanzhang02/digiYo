@@ -1,0 +1,53 @@
+:root { 
+  --ebony-clay: #232838;
+  --main-color: #05f4b7;
+  --mirage: #1a1e2b;
+  --scarpa-flow: #505566;
+  --vulcan: #12151f;
+  --white: #ffffff;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 18px;
+  --font-size-xl: 64px;
+  --font-size-xs: 14px;
+ 
+  --font-family-pragmatica-bold: "Pragmatica-Bold", Helvetica;
+  --font-family-pragmatica-book: "Pragmatica-Book", Helvetica;
+  --font-family-pragmaticaextended-black: "PragmaticaExtended-Black", Helvetica;
+  --font-family-pragmaticaextended-bold: "PragmaticaExtended-Bold", Helvetica;
+}
+.h1-big--white {
+  font-family: var(--font-family-pragmaticaextended-black);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+}
+
+.h2--white--lower {
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.body-1--bold--white {
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.pragmatica-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-pragmatica-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-3px-scarpa-flow {
+  border: 3px solid var(--scarpa-flow);
+}

@@ -1,0 +1,22 @@
+.profile-icon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 36px;
+  padding: 6.0px 0;
+  width: 36px;
+}
+
+.ellipse-7 {
+  border-radius: 4.5px;
+  height: 12px;
+  width: 12px;
+}
+
+.path-30 {
+  height: 9px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 24px;
+}

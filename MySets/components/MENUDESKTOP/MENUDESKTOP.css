@@ -1,0 +1,252 @@
+.menu-desktop {
+  align-items: center;
+  background-color: var(--mirage);
+  box-shadow: 0px 5px 10px #12151fcc;
+  display: flex;
+  height: 66px;
+  left: 0;
+  min-width: 1920px;
+  padding: 0 238.0px;
+  position: absolute;
+  top: 0;
+}
+
+.group-101 {
+  align-items: center;
+  display: flex;
+  min-width: 772px;
+}
+
+.group-102 {
+  align-items: center;
+  display: flex;
+  margin-bottom: 1.91px;
+  min-width: 220px;
+}
+
+.group-337 {
+  align-items: center;
+  display: flex;
+  min-width: 113px;
+}
+
+.group-335 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  min-width: 35px;
+}
+
+.overlap-group-4 {
+  height: 24px;
+  position: relative;
+  width: 35px;
+}
+
+.path-69 {
+  height: 24px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.path-70 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.group-336 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  margin-left: 4px;
+  min-width: 73px;
+  padding: 0 0.0px;
+}
+
+.path-71 {
+  height: 29px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 13px;
+}
+
+.path-7 {
+  height: 28px;
+  margin-left: 3px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 4px;
+}
+
+.path-73 {
+  align-self: flex-end;
+  height: 29px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 13px;
+}
+
+.overlap-group1-1 {
+  height: 28px;
+  margin-left: 1px;
+  margin-top: 0;
+  position: relative;
+  width: 28px;
+}
+
+.path-75 {
+  height: 28px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.path-76 {
+  height: 21px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.group-102-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 10px;
+  margin-top: 1.44px;
+  min-width: 97px;
+  padding: 0 0.0px;
+}
+
+.overlap-group2 {
+  height: 19px;
+  position: relative;
+  width: 48px;
+}
+
+.path-44 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.path-45 {
+  height: 18px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.path-46 {
+  height: 18px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.path-47 {
+  height: 19px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.overlap-group1-2 {
+  height: 18px;
+  margin-left: 1px;
+  margin-top: 0;
+  position: relative;
+  width: 16px;
+}
+
+.path-48 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.path-49 {
+  height: 18px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.overlap-group-5 {
+  height: 19px;
+  margin-left: 1px;
+  position: relative;
+  width: 30px;
+}
+
+.path-50 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.path-51 {
+  height: 18px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.path-52 {
+  height: 19px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.group-99 {
+  align-items: flex-start;
+  display: flex;
+  height: 66px;
+  margin-left: 32px;
+  min-width: 520px;
+  position: relative;
+}
+
+.group-59 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  margin-left: 590px;
+  min-width: 80px;
+  position: relative;
+}
