@@ -1,0 +1,33 @@
+.group-109-3 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 16px;
+  margin-left: 11px;
+  min-width: 16px;
+  padding: 0 3.2px;
+  transform: rotate(-90deg);
+}
+
+.path-27-1 {
+  height: 15px;
+  margin-bottom: -0.09px;
+  object-fit: cover;
+  transform: rotate(90deg);
+  width: 10px;
+}
+
+.group-109-3.group-109-1 {
+  align-self: unset;
+  margin-left: 360px;
+}
+
+.group-109-3.group-109-4 {
+  align-self: unset;
+  margin-left: 370px;
+}
+
+.group-109-3.group-109-2 {
+  align-self: unset;
+  margin-left: 311px;
+}

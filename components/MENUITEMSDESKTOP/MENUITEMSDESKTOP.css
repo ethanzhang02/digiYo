@@ -1,0 +1,68 @@
+.menu-items-desktop {
+  align-items: flex-start;
+  display: flex;
+  min-width: 48px;
+}
+
+.overlap-group3 {
+  height: 66px;
+  position: relative;
+  width: 48px;
+}
+
+.mask-group-1 {
+  height: 66px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.shop {
+  left: 0;
+  letter-spacing: 2.10px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.menu-items-desktop.menu-items-desktop-1 {
+  margin-left: 23px;
+  min-width: 112px;
+}
+
+.menu-items-desktop.menu-items-desktop-1 .overlap-group3 {
+  width: 112px;
+}
+
+.menu-items-desktop.menu-items-desktop-1 .mask-group-1 {
+  width: 111px;
+}
+
+.menu-items-desktop.menu-items-desktop-2 {
+  margin-left: 23px;
+  min-width: 114px;
+}
+
+.menu-items-desktop.menu-items-desktop-2 .overlap-group3 {
+  width: 114px;
+}
+
+.menu-items-desktop.menu-items-desktop-2 .mask-group-1 {
+  width: 113px;
+}
+
+.menu-items-desktop.menu-items-desktop-3 {
+  margin-left: 24px;
+  min-width: 46px;
+}
+
+.menu-items-desktop.menu-items-desktop-3 .overlap-group3 {
+  width: 46px;
+}
+
+.menu-items-desktop.menu-items-desktop-3 .mask-group-1 {
+  width: 44px;
+}
